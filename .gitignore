@@ -1,0 +1,6 @@
+server.log
+node_modules/
+.env*
+*.sql
+make_icons.py
+/screenshot*.png
